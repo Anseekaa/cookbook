@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/.next/
+.next/
+
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+.env
+backend/.env
+
+# Build and logs
+dist/
+build/
+*.log
+
+# Model and large files
+*.pt
+*.bin
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.yarn/
+.pnpm-store/
